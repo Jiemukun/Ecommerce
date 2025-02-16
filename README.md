@@ -22,7 +22,7 @@ An online shopping platform that integrates GCash as a payment method.
 
 *Clone the repository:*
 
-git clone [https://github.com/your-repo/ecommerce.git](https://github.com/Jiemukun/Ecommerce.git](https://github.com/Jiemukun/Ecommerce.git)
+git clone https://github.com/Jiemukun/Ecommerce.git
 
 cd ShopCCICT
 
