@@ -2,16 +2,19 @@
 An online shopping platform that integrates GCash as a payment method.
 
 🚀 *Technologies Used*
+
 -Frontend: HTML, CSS, JavaScript, Bootstrap
 -Backend: PHP, MySQL (Managed via phpMyAdmin)
 
 💳 *Features*
+
 -Browse and purchase products online
 -Secure payment processing via GCash
 -User authentication and account management
 -Responsive design for seamless experience across devices
 
 📌 *Installation & Setup*
+
 *Clone the repository:*
 git clone https://github.com/your-repo/ecommerce.git](https://github.com/Jiemukun/Ecommerce.git
 cd ShopCCICT
